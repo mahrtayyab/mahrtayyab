@@ -1,3 +1,4 @@
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahrtayyab)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Introduction -->
 # Hi there 👋, I'm TAYYAB HUSSAIN!
@@ -21,10 +22,10 @@ I'm a passionate software developer and Software Developer from Faisalabad, Paki
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&theme=radical&rank_icon=github&include_all_commits=true)
 
 <!-- Top Languages -->
 ## 🔝 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrtayyab&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrtayyab&layout=compact&theme=radical&card_width=500)
 

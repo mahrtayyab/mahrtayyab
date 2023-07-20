@@ -17,13 +17,7 @@ I'm a passionate software developer and Software Developer from Faisalabad, Paki
 - 📫 How to reach me: [tayyabmahr@gmail.com](mailto:tayyabmahr@gmail.com).
 - 😄 Pronouns: He/Him.
 
+## 📈 GitHub Stats         |  ## 🔝 Top Languages
+:-------------------------: |:-------------------------:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&hide=prs&theme=radical))  |  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrtayyab&layout=compact&theme=radical)
 
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-<!-- Top Languages -->
-## 🔝 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrtayyab&layout=compact&theme=radical)

@@ -21,7 +21,7 @@ I'm a passionate software developer and Software Developer from Faisalabad, Paki
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&theme=radical&rank_icon=github&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&theme=radical&rank_icon=github&include_all_commits=true&card_width=500)
 
 <!-- Top Languages -->
 ## 🔝 Top Languages

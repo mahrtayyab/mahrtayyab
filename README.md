@@ -18,6 +18,5 @@ I'm a passionate software developer and Software Developer from Faisalabad, Paki
 - 😄 Pronouns: He/Him.
 
 ## 📈 GitHub Stats         |  ## 🔝 Top Languages
-:-------------------------: |:-------------------------:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&hide=prs&theme=radical))  |  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrtayyab&layout=compact&theme=radical)
 

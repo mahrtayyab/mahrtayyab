@@ -1,4 +1,3 @@
-
 <!-- Introduction -->
 # Hi there 👋, I'm TAYYAB HUSSAIN!
 
@@ -12,10 +11,11 @@ I'm a passionate software developer and Software Developer from Faisalabad, Paki
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on tweety
+- 🔭 I’m currently working on [tweety](https://github.com/mahrtayyab/tweety)
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: [tayyabmahr@gmail.com](mailto:tayyabmahr@gmail.com).
 - 😄 Pronouns: He/Him.
+
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats

@@ -1,4 +1,3 @@
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahrtayyab)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Introduction -->
 # Hi there 👋, I'm TAYYAB HUSSAIN!

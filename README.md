@@ -1,7 +1,7 @@
 <!-- Introduction -->
 # Hi there 👋, I'm TAYYAB HUSSAIN!
 
-I'm a passionate software developer and Software Developer from Faisalabad, Pakistan. Welcome to my GitHub profile! 😄
+I'm a passionate Software Developer from Faisalabad, Pakistan. Welcome to my GitHub profile! 😄
 
 <!-- Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/mahrtayyab?label=Follow&style=social)](https://github.com/mahrtayyab)

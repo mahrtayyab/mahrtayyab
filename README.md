@@ -10,10 +10,6 @@ I'm a passionate Software Developer from Faisalabad, Pakistan. Welcome to my Git
 [![Linkedin: Tayyab](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyab-hussain-23a438180/)
 [![Donate](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00.svg?style=for-the-badge)](https://www.buymeacoffee.com/mahrtayyab)
 
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=mahrtayyab&color=blue&style=flat-square" alt="mahrtayyab's profile views" />
-</p>
-
 
 
 <!-- About Me -->

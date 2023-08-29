@@ -19,13 +19,13 @@ I'm a passionate Software Developer from Faisalabad, Pakistan. Welcome to my Git
 - 😄 Pronouns: He/Him.
 
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&theme=github_dark_dimmed&rank_icon=github&include_all_commits=true&card_width=500&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahrtayyab&show_icons=true&count_private=true&theme=github_dark_dimmed&rank_icon=github&include_all_commits=true&card_width=500&hide_border=true)  -->
 
-<!-- Top Languages -->
+<!-- Top Languages
 ## 🔝 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrtayyab&layout=compact&theme=radical&card_width=500&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrtayyab&layout=compact&theme=radical&card_width=500&hide_border=true)  -->
 

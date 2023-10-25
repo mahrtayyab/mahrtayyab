@@ -1,5 +1,7 @@
 <!-- Introduction -->
-## Hi there 👋, I'm [![Tayyab Hussain](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=5000&color=1ECDFF&vCenter=true&repeat=false&random=false&width=435&lines=Tayyab+Hussain)](https://git.io/typing-svg)
+## Hi there 👋, I'm 
+
+[![Tayyab Hussain](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=5000&color=1ECDFF&vCenter=true&repeat=false&random=false&width=435&lines=Tayyab+Hussain)](https://git.io/typing-svg)
 
 I'm a passionate Software Developer from Faisalabad, Pakistan. Welcome to my GitHub profile! 😄
 

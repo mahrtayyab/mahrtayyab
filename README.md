@@ -8,14 +8,14 @@ I'm a passionate Software Developer from Faisalabad, Pakistan. Welcome to my Git
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kharltayyab)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kharltayyab)
 [![Linkedin: Tayyab](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyab-hussain-23a438180/)
-<!-- [![Support](https://img.shields.io/badge/support-buy%20me%20a%20coffee-ffdd00.svg?style=for-the-badge)](https://www.buymeacoffee.com/mahrtayyab) -->
+[![Support](https://img.shields.io/badge/support-buy%20me%20a%20coffee-ffdd00.svg?style=for-the-badge)](https://www.buymeacoffee.com/mahrtayyab)
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on [tweety](https://github.com/mahrtayyab/tweety)
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me: [tayyabmahr@gmail.com](mailto:tayyabmahr@gmail.com).
+- 📫 How to reach me: [hello@tayyabkharl.one](mailto:hello@tayyabkharl.one).
 - 😄 Pronouns: He/Him.
 
 

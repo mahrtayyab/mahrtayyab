@@ -27,7 +27,7 @@
 <!-- Tech Stack -->
 ## 💻 Tech Stack
 ![Python](https://skillicons.dev/icons?i=python,golang,flask,django,tailwind,html,css,github,mongodb,git,mysql,kotlin,javascript)
-
+![Python](https://skillicons.dev/icons?i=docker,androidstudio,bootstrap,bots,heroku,sqlite,selenium)
 
 <!-- Top Languages 
 ## 🔝 Top Languages

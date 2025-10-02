@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahrtayyab) -->
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kharltayyab)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kharltayyab)
-[![Linkedin: Tayyab](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/tayyab-hussain-23a438180/)
+[![Linkedin: Tayyab](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/kharltayyab/)
 [![Support](https://img.shields.io/badge/support-buy%20me%20a%20coffee-ffdd00.svg?style=for-the-badge)](https://www.buymeacoffee.com/mahrtayyab)
 
 <!-- About Me -->
